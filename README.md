@@ -30,4 +30,5 @@ The purpose of this project is to showcase how to integrate **Apache Solr** with
    ```bash
    solr start
 2. Run the Node.js proxy server:
+   ```bash
       node proxy.js
