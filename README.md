@@ -29,3 +29,5 @@ The purpose of this project is to showcase how to integrate **Apache Solr** with
 1. Start the Solr server:
    ```bash
    solr start
+2. Run the Node.js proxy server:
+      node proxy.js
